@@ -1,0 +1,6 @@
+{
+  "name": "Hakim easy app",
+  "description": "All-in-one personal productivity suite with Clock, Alarms, Calendar, Daily Routines, Calculator, and linked Notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
